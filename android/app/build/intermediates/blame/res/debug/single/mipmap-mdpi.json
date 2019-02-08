@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/Downloads/Client/android/C:\\Users\\Kush\\Desktop\\AuthCourse-master\\Client\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "/home/user/Downloads/Client/android/C:\\Users\\Kush\\Desktop\\AuthCourse-master\\Client\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/Downloads/Client/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/user/Downloads/Client/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
